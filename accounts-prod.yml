@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related local APIs "
   contactDetails:
-    name: "Ranga - Prod"
+    name: "Amit - Prod"
     email: "ranga@eazybank.com"
   onCallSupport:
     - (777) 555-1234
