@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Sam Altman - QA - Lead"
+    email: "sam@eazybank.com"
+  onCallSupport:
+    - (444) 444-1234
+    - (444) 434-1345
