@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related webhook APIs "
   contactDetails:
     name: "Amit - Prod"
     email: "{cipher}ba397a108ac4b15982abf51e55299382ccc9a4238fc4203f9f6aa6d83dfef1e008807beb127eafb7046620dc20af0acc"
