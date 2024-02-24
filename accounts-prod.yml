@@ -1,5 +1,5 @@
 build:
-  version: "1.0"
+  version: "3.0"
 
 accounts:
   message: "Welcome to EazyBank accounts related prod 48 APIs "
@@ -7,5 +7,5 @@ accounts:
     name: "Amit - Prod"
     email: "{cipher}ba397a108ac4b15982abf51e55299382ccc9a4238fc4203f9f6aa6d83dfef1e008807beb127eafb7046620dc20af0acc"
   onCallSupport:
-    - (777) 555-1234
+    - (777) 552-1234
     - (777) 523-1345
