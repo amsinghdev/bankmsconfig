@@ -5,7 +5,7 @@ loans:
   message: "Welcome to EazyBank loans related local APIs "
   contactDetails:
     name: "Sam Altman - QA - Lead"
-    email: "sam@eazybank.com"
+    email: "sam@openai.com"
   onCallSupport:
     - (444) 444-1234
     - (444) 434-1345
