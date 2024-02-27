@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related webhook APIs "
   contactDetails:
-    name: "Ranga - Prod"
+    name: "Ranga - Prod Live"
     email: "ranga@eazybank.com"
   onCallSupport:
     - (777) 555-1234
