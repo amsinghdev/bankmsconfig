@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related local APIs "
   contactDetails:
-    name: "Sam Altman - QA - Lead"
+    name: "Sam Altman - QA - Lead 24"
     email: "sam@eazybank.com"
   onCallSupport:
     - (444) 444-1234
